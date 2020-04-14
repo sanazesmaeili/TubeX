@@ -1,0 +1,191 @@
+body{
+	background: #032137;
+	color: rgba(0,0,0);
+	background-size: cover;
+
+}
+header{
+    color: rgba(0,0,0,1.00);
+}
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background: #536270;
+}
+.navbar-btn{
+	background:#536270;
+}
+.navbar, .nav, .navbar-nav, .navbar-right{
+	background: #24303D;
+	border: #24303D;
+	color:#8799B1;
+}
+.background-image-container{
+	background-size: 100% 100%;
+	width:100%;
+    height:100%;
+    position:absolute;
+}
+.section-container{
+	background-color: #808B96;
+}
+
+/*******************************************************
+*   link
+******************************************************/
+/* unvisited link */
+a { color: #0464C0; }
+
+li a:link {
+  color: #0464C0;
+}
+
+/* visited link */
+li a:visited {
+  color: #043E76;
+}
+
+/* mouse over link */
+li a:hover {
+  color: #05396B;
+}
+
+/* selected link */
+li a:active {
+  color: #3710A4;
+}
+
+
+/***********************************************************************
+ *  style for data 
+ **********************************************************************/
+ .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background: #1A3550;
+}
+.navbar-btn{
+    background:#1A3550;
+ }   
+.zone {
+    cursor:pointer;
+    color:#000000;
+    font-size:2;
+    border-radius:4px;
+    border:1px solid #bbb;
+    transition: all 0.3s linear;
+    background-color: #F6DDCC;
+}
+
+.zone:hover {
+    -webkit-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    -moz-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    -o-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+}
+
+/***********************************************************************
+ *  Grid Panel
+ **********************************************************************/
+.grid-wrapper {
+    display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    grid-gap: 10px;
+}
+
+.box {
+    background-color: #FFFFFF;
+    padding: 20px;
+    margin: 20px;
+}
+
+.box > img {
+    width: 100%;
+}
+
+.box:hover {
+    -webkit-transform: scale(1.5);
+    -moz-transform: scale(1.5);
+    -o-transform: scale(1.5);
+    transform: scale(1.5);
+}
+
+.box > img {
+    width: 100%;
+    height: 100%;
+}
+/***********************************************************************
+ *  brown Background
+ **********************************************************************/
+.brown {
+    background: #F6DDCC; /* Old browsers */
+    background: -moz-linear-gradient(top, #F6DDCC 0%, #F5CBA7 44%, #EDBB99 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#F6DDCC), color-stop(44%,#F5CBA7), color-stop(100%,#EDBB99)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #F6DDCC 0%,#F5CBA7 44%,#EDBB99 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #F6DDCC 0%,#F5CBA7 44%,#EDBB99 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #F6DDCC 0%,#F5CBA7 44%,#EDBB99 100%); /* IE10+ */
+    background: linear-gradient(top, #F6DDCC 0%,#F5CBA7 44%,#EDBB99 100%); /* W3C */
+}
+
+/***********************************************************************
+ *  for map
+ **********************************************************************/
+.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}
+
+/***********************************************************************
+* Dropdown Button *
+**********************************************************************/
+.dropbtn {
+  background-color: #8AADB3;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Dropdown button on hover & focus */
+.dropbtn:hover, .dropbtn:focus {
+  background-color: #42678F;
+}
+
+/* The search field */
+#myInput {
+  box-sizing: border-box;
+  background-image: url('searchicon.png');
+  background-position: 14px 12px;
+  background-repeat: no-repeat;
+  font-size: 16px;
+  padding: 14px 20px 12px 45px;
+  border: none;
+  border-bottom: 1px solid #ddd;
+}
+
+/* The search field when it gets focus/clicked on */
+#myInput:focus {outline: 3px solid #ddd;}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f6f6f6;
+  min-width: 230px;
+  border: 1px solid #ddd;
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;}

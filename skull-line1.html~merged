@@ -1,0 +1,424 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD:glossary.html
+>>>>>>> dc7ff1b99e41d483eb65d20f38c321cc814c83b5
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta content="IE=edge" http-equiv="X-UA-Compatible">
+  <meta content="width=device-width,initial-scale=1" name="viewport">
+  <meta content="description" name="description">
+  <meta name="google" content="notranslate" />
+  <meta content="Mashup templates have been developped by Orson.io team" name="author">
+
+  <!-- Disable tap highlight on IE -->
+  <meta name="msapplication-tap-highlight" content="no">
+
+<<<<<<< HEAD
+  <title>line1-Skull-TubeX</title>  
+=======
+  <title>Glossary page</title>  
+>>>>>>> dc7ff1b99e41d483eb65d20f38c321cc814c83b5
+
+<link href="./main.a3f694c0.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+
+ <!-- Add your content of header -->
+<header>
+  <nav class="navbar  navbar-fixed-top navbar-default">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle uarr collapsed" data-toggle="collapse" data-target="#navbar-collapse-uarr">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        
+      </div>
+
+      <div class="collapse navbar-collapse" id="navbar-collapse-uarr">
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="./index.html" title="" class="active">Home</a></li>
+          <li><a href="./about.html" title=""> About TubeX</a></li>
+<<<<<<< HEAD
+          <li><a href="./publication.html" title=""> Publication </a></li>
+          <li><a href="./contact.html" title="">Photo Gallery</a></li>
+          <li><a href="./contributors.html" title="">Contributors</a></li>
+          <li><a href="./glossary.html" title="">Glossary</a></li>
+          <li><a href="./map.html" title="">Map</a></li>
+		  <li><a href="./data.html" title="">Data</a></li>
+=======
+          <li><a href="./publication.html" title=""> Publication</a></li>
+          <li><a href="./contact.html" title="">Photo Gallery</a></li>
+          <li><a href="./contributors.html" title="">Contributors</a></li>
+          <li><a href="./glossary.html" title=""><strong>Glossary</strong></a></li>
+          <li><a href="./map.html" title="">Map</a></li>
+          <li><a href="./data0.html" title="">Data</a></li>
+>>>>>>> dc7ff1b99e41d483eb65d20f38c321cc814c83b5
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>
+
+
+<<<<<<< HEAD
+
+<!--
+<div class="">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-xs-12">
+               <img class="img-responsive" src="./img/gpr2 (1018x764).JPG">
+            </div>
+        </div>
+    </div>
+</div> -->
+
+=======
+>>>>>>> dc7ff1b99e41d483eb65d20f38c321cc814c83b5
+<div class="section-container">
+    <div class="container">
+        <div class="row">
+               <div class="col-xs-12 col-md-8 col-md-offset-2">
+                    <div class="text-center">
+<<<<<<< HEAD
+                    <h2>GPR line1 at the Skull Cave</h2>
+                    </div>   
+					<p class="section-container-spacer">
+				    <h5>link to <a href="#">download</a> the data for the GPR line 1</h5>
+				    <br>
+						<h6>Data for the line 1 consists of ...</h6>
+<!--						<ul class="list-inline">-->
+				        <ul style="list-style-type: none">
+							<li><a href="#gps">&bullet; GPS coordinates of the line 1 over the lidar point cloud</a></li>
+							<li><a href="#raw">&bullet; raw data</a></li>
+							<li><a href="#proc">&bullet; simple process</a></li>
+							<li><a href="#topo">&bullet; after topo-correction</a></li>
+							<li><a href="#topo-lidar">&bullet; after topo-correction with lidar geometry on top</a></li>
+							<li><a href="#const-mig">&bullet; 1D constant velocity migration</a></li>
+							<li><a href="#2D-mig">&bullet; migration with 2D velocity model based on lidar geometry</a></li>
+							<li><a href="#lidar-geo">&bullet; lidar geometry</a></li>
+							<li><a href="#frw">&bullet; forward model</a></li>
+							<li><a href="#snapshot">&bullet; snapshot video</a></li>
+							
+						</ul>
+					</p> 
+			        <br>
+			        <div class="row section-container-spacer">
+						<h6><a name="gps"></a>GPS coordinates of the line 1 over the lidar point cloud</h6>
+						<a href="img/GPRLine1_with_lidar_picks_SE.jpg"><img class="col img-responsive" src="img/GPRLine1_with_lidar_picks_SE.jpg" alt="Skull"></a>
+						<h6><a name="raw"></a>Raw data</h6>
+						<a href="img/GPRLine1_with_lidar_picks_SE.jpg"><img class="col img-responsive" src="img/GPRLine1_with_lidar_picks_SE.jpg" alt="Skull"></a> 
+						<h6><a name="proc"></a>simple process</h6>
+						<a href="img/GPRLine1_with_lidar_picks_SE.jpg"><img class="col img-responsive" src="img/GPRLine1_with_lidar_picks_SE.jpg" alt="Skull"></a> 
+						<h6><a name="topo"></a>after topo-correction</h6>
+						<a href="img/GPRLine1_with_lidar_picks_SE.jpg"><img class="col img-responsive" src="img/GPRLine1_with_lidar_picks_SE.jpg" alt="Skull"></a> 
+					</div>
+				</div>
+               
+   
+            </div>
+
+
+
+
+        </div>
+
+    </div>
+=======
+                    <h1>TubeX glossary</h1>
+                     </div>   
+                        <p class="section-container-spacer">
+							<p><strong><strong><strong>XXX:</strong></strong></strong> xxxxxxxxxxx xxxxxxxx xxxxxx xxxxxxxx xxxxx xxxxxxxx xxxxxx xxxxxxxxxxx xxxxxxxx xxxxxxxxxxx xxxxxxxxxx xxxxxxxxxxx  xxxxxxxxxxx xxxxxxxxxx xxxxxxxxxx xxxxxxxxxx xxxxxx xxxx xxxx xxxxxxxxxxx xxxx xxxxxxx xxxxxxxxx xxxxxxx xxx xxxxxxxxxx. <a href="https:" target="_blank"> reference.</a></p><br>
+							<p><strong><strong><strong>XXX:</strong></strong></strong> 
+				  			xxxxxxxxxxx xxxxxxxx xxxxxx xxxxxxxx xxxxx xxxxxxxx xxxxxx xxxxxxxxxxx xxxxxxxx xxxxxxxxxxx xxxxxxxxxx xxxxxxxxxxx  xxxxxxxxxxx xxxxxxxxxx xxxxxxxxxx xxxxxxxxxx xxxxxx xxxx xxxx xxxxxxxxxxx xxxx xxxxxxx xxxxxxxxx xxxxxxx xxx xxxxxxxxxx. <a href="https:" target="_blank"> reference.</a></p><br>
+				   			<p><strong><strong><strong>XXX:</strong></strong></strong> 
+				  			xxxxxxxxxxx xxxxxxxx xxxxxx xxxxxxxx xxxxx xxxxxxxx xxxxxx xxxxxxxxxxx xxxxxxxx xxxxxxxxxxx xxxxxxxxxx xxxxxxxxxxx  xxxxxxxxxxx xxxxxxxxxx xxxxxxxxxx xxxxxxxxxx xxxxxx xxxx xxxx xxxxxxxxxxx xxxx xxxxxxx xxxxxxxxx xxxxxxx xxx xxxxxxxxxx. <a href="https:" target="_blank"> reference.</a></p><br>
+				   			<p><strong><strong><strong>XXX:</strong></strong></strong> 
+				  			xxxxxxxxxxx xxxxxxxx xxxxxx xxxxxxxx xxxxx xxxxxxxx xxxxxx xxxxxxxxxxx xxxxxxxx xxxxxxxxxxx xxxxxxxxxx xxxxxxxxxxx  xxxxxxxxxxx xxxxxxxxxx xxxxxxxxxx xxxxxxxxxx xxxxxx xxxx xxxx xxxxxxxxxxx xxxx xxxxxxx xxxxxxxxx xxxxxxx xxx xxxxxxxxxx. <a href="https:" target="_blank"> reference.</a></p><br>
+				   			<p><strong><strong><strong>XXX:</strong></strong></strong> 
+				  			xxxxxxxxxxx xxxxxxxx xxxxxx xxxxxxxx xxxxx xxxxxxxx xxxxxx xxxxxxxxxxx xxxxxxxx xxxxxxxxxxx xxxxxxxxxx xxxxxxxxxxx  xxxxxxxxxxx xxxxxxxxxx xxxxxxxxxx xxxxxxxxxx xxxxxx xxxx xxxx xxxxxxxxxxx xxxx xxxxxxx xxxxxxxxx xxxxxxx xxx xxxxxxxxxx. <a href="https:" target="_blank"> reference.</a></p><br>
+                        </p>
+						
+                        
+               	</div> 
+		</div>
+	</div>
+</div>
+>>>>>>> dc7ff1b99e41d483eb65d20f38c321cc814c83b5
+
+
+
+
+
+
+<!--
+<footer>
+    <div class="section-container footer-container">
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-4">
+                        <h4>About us</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet consectetur dolor</p>
+                    </div>
+
+                    <div class="col-md-4">
+                        <h4>Do you like ? Share this !</h4>
+                        <p>
+                            <a href="https://facebook.com/" class="social-round-icon white-round-icon fa-icon" title="">
+                            <i class="fa fa-facebook" aria-hidden="true"></i>
+                          </a>
+                          <a href="https://twitter.com/" class="social-round-icon white-round-icon fa-icon" title="">
+                            <i class="fa fa-twitter" aria-hidden="true"></i>
+                          </a>
+                          <a href="https://www.linkedin.com/" class="social-round-icon white-round-icon fa-icon" title="">
+                            <i class="fa fa-linkedin" aria-hidden="true"></i>
+                          </a>
+                        </p>
+                        <p><small>© Untitled | Website created with <a href="http://www.mashup-template.com/" class="link-like-text" title="Create website with free html template">Mashup Template</a>/<a href="http://www.unsplash.com/" class="link-like-text" title="Beautiful Free Images">Unsplash</a></small></p>    
+                    </div>
+
+                    <div class="col-md-4">
+                        <h4>Subscribe to newsletter</h4>
+                        
+                        <div class="form-group">
+                            <div class="input-group">
+                                <input type="text" class="form-control footer-input-text">
+                                <div class="input-group-btn">
+                                    <button type="button" class="btn btn-primary btn-newsletter ">OK</button>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+            </div>
+        </div>
+    </div>
+</footer>
+-->
+<script>
+  document.addEventListener("DOMContentLoaded", function (event) {
+    navActivePage();
+  });
+</script>
+
+<!-- Google Analytics: change UA-XXXXX-X to be your site's ID 
+
+<script>
+  (function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+      (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date(); a = s.createElement(o),
+      m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+  ga('create', 'UA-XXXXX-X', 'auto');
+  ga('send', 'pageview');
+</script>
+
+--> 
+<script type="text/javascript" src="./main.41beeca9.js"></script></body>
+
+<<<<<<< HEAD
+=======
+=======
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta content="IE=edge" http-equiv="X-UA-Compatible">
+  <meta content="width=device-width,initial-scale=1" name="viewport">
+  <meta content="description" name="description">
+  <meta name="google" content="notranslate" />
+  <meta content="Mashup templates have been developped by Orson.io team" name="author">
+
+  <!-- Disable tap highlight on IE -->
+  <meta name="msapplication-tap-highlight" content="no">
+
+  <title>line1-Skull-TubeX</title>  
+
+<link href="./main.a3f694c0.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+
+ <!-- Add your content of header -->
+<header>
+  <nav class="navbar  navbar-fixed-top navbar-default">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle uarr collapsed" data-toggle="collapse" data-target="#navbar-collapse-uarr">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        
+      </div>
+
+      <div class="collapse navbar-collapse" id="navbar-collapse-uarr">
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="./index.html" title="" class="active">Home</a></li>
+          <li><a href="./about.html" title=""> About TubeX</a></li>
+          <li><a href="./publication.html" title=""> Publication </a></li>
+          <li><a href="./contact.html" title="">Photo Gallery</a></li>
+          <li><a href="./contributors.html" title="">Contributors</a></li>
+          <li><a href="./components.html" title="">Glossary</a></li>
+          <li><a href="./map.html" title="">Map</a></li>
+		  <li><a href="./data.html" title="">Data</a></li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>
+
+
+
+<!--
+<div class="">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-xs-12">
+               <img class="img-responsive" src="./img/gpr2 (1018x764).JPG">
+            </div>
+        </div>
+    </div>
+</div> -->
+
+<div class="section-container">
+    <div class="container">
+        <div class="row">
+               <div class="col-xs-12 col-md-8 col-md-offset-2">
+                    <div class="text-center">
+                    <h2>GPR line1 at the Skull Cave</h2>
+                    </div>   
+					<p class="section-container-spacer">
+				    <h5>link to <a href="#">download</a> the data for the GPR line 1</h5>
+				    <br>
+						<h6>Data for the line 1 consists of ...</h6>
+<!--						<ul class="list-inline">-->
+				        <ul style="list-style-type: none">
+							<li><a href="#gps">&bullet; GPS coordinates of the line 1 over the lidar point cloud</a></li>
+							<li><a href="#raw">&bullet; raw data</a></li>
+							<li><a href="#proc">&bullet; simple process</a></li>
+							<li><a href="#topo">&bullet; after topo-correction</a></li>
+							<li><a href="#topo-lidar">&bullet; after topo-correction with lidar geometry on top</a></li>
+							<li><a href="#const-mig">&bullet; 1D constant velocity migration</a></li>
+							<li><a href="#2D-mig">&bullet; migration with 2D velocity model based on lidar geometry</a></li>
+							<li><a href="#lidar-geo">&bullet; lidar geometry</a></li>
+							<li><a href="#frw">&bullet; forward model</a></li>
+							<li><a href="#snapshot">&bullet; snapshot video</a></li>
+							
+						</ul>
+					</p> 
+			        <br>
+			        <div class="row section-container-spacer">
+						<h6><a name="gps"></a>GPS coordinates of the line 1 over the lidar point cloud</h6>
+						<a href="img/GPRLine1_with_lidar_picks_SE.jpg"><img class="col img-responsive" src="img/GPRLine1_with_lidar_picks_SE.jpg" alt="Skull"></a>
+						<h6><a name="raw"></a>Raw data</h6>
+						<a href="img/GPRLine1_with_lidar_picks_SE.jpg"><img class="col img-responsive" src="img/GPRLine1_with_lidar_picks_SE.jpg" alt="Skull"></a> 
+						<h6><a name="proc"></a>simple process</h6>
+						<a href="img/GPRLine1_with_lidar_picks_SE.jpg"><img class="col img-responsive" src="img/GPRLine1_with_lidar_picks_SE.jpg" alt="Skull"></a> 
+						<h6><a name="topo"></a>after topo-correction</h6>
+						<a href="img/GPRLine1_with_lidar_picks_SE.jpg"><img class="col img-responsive" src="img/GPRLine1_with_lidar_picks_SE.jpg" alt="Skull"></a> 
+					</div>
+				</div>
+               
+   
+            </div>
+
+
+
+
+        </div>
+
+    </div>
+
+
+
+
+
+
+<!--
+<footer>
+    <div class="section-container footer-container">
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-4">
+                        <h4>About us</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet consectetur dolor</p>
+                    </div>
+
+                    <div class="col-md-4">
+                        <h4>Do you like ? Share this !</h4>
+                        <p>
+                            <a href="https://facebook.com/" class="social-round-icon white-round-icon fa-icon" title="">
+                            <i class="fa fa-facebook" aria-hidden="true"></i>
+                          </a>
+                          <a href="https://twitter.com/" class="social-round-icon white-round-icon fa-icon" title="">
+                            <i class="fa fa-twitter" aria-hidden="true"></i>
+                          </a>
+                          <a href="https://www.linkedin.com/" class="social-round-icon white-round-icon fa-icon" title="">
+                            <i class="fa fa-linkedin" aria-hidden="true"></i>
+                          </a>
+                        </p>
+                        <p><small>© Untitled | Website created with <a href="http://www.mashup-template.com/" class="link-like-text" title="Create website with free html template">Mashup Template</a>/<a href="http://www.unsplash.com/" class="link-like-text" title="Beautiful Free Images">Unsplash</a></small></p>    
+                    </div>
+
+                    <div class="col-md-4">
+                        <h4>Subscribe to newsletter</h4>
+                        
+                        <div class="form-group">
+                            <div class="input-group">
+                                <input type="text" class="form-control footer-input-text">
+                                <div class="input-group-btn">
+                                    <button type="button" class="btn btn-primary btn-newsletter ">OK</button>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+            </div>
+        </div>
+    </div>
+</footer>
+-->
+<script>
+  document.addEventListener("DOMContentLoaded", function (event) {
+    navActivePage();
+  });
+</script>
+
+<!-- Google Analytics: change UA-XXXXX-X to be your site's ID 
+
+<script>
+  (function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+      (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date(); a = s.createElement(o),
+      m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+  ga('create', 'UA-XXXXX-X', 'auto');
+  ga('send', 'pageview');
+</script>
+
+--> 
+<script type="text/javascript" src="./main.41beeca9.js"></script></body>
+
+>>>>>>> dc7ff1b99e41d483eb65d20f38c321cc814c83b5:skull-line1.html
+>>>>>>> dc7ff1b99e41d483eb65d20f38c321cc814c83b5
+</html>
